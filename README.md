@@ -8,7 +8,7 @@
  - Name: Prema Durga P<br>
  - Mail id: ppremadurga22@gmail.com<br>
  - Phone no:+91 **********<br>
- - Address: krishna<br>
+ - Address: krishna<br> 
  
 ## Educational Details
   
